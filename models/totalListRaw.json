@@ -1,0 +1,144 @@
+{
+    "remotes": [
+        {
+            "label": "Device1",
+            "apps": [
+                {
+                    "label": "App1",
+                    "top_cmds": [
+                        {
+                            "label": "Command1",
+                            "shell_src": "./cmd/pwd.sh"
+                        },
+                        {
+                            "label": "Command2",
+                            "shell_src": "./cmd/pwd.sh"
+                        },
+                        {
+                            "label": "Command3",
+                            "shell_src": "./cmd/pwd.sh"
+                        }
+                    ],
+                    "mid_cmds": [
+                        {
+                            "label": "Command4",
+                            "shell_src": "./cmd/pwd.sh"
+                        },
+                        {
+                            "label": "Command5",
+                            "shell_src": "./cmd/pwd.sh"
+                        },
+                        {
+                            "label": "Command6",
+                            "shell_src": "./cmd/pwd.sh"
+                        }
+                    ],
+                    "bot_cmds": [
+                        {
+                            "label": "Command7",
+                            "shell_src": "./cmd/pwd.sh"
+                        },
+                        {
+                            "label": "Command8",
+                            "shell_src": "./cmd/pwd.sh"
+                        },
+                        {
+                            "label": "",
+                            "shell_src": ""
+                        }
+                    ]
+                },
+                {
+                    "label": "App2",
+                    "top_cmds": [
+                        {
+                            "label": "Command1",
+                            "shell_src": "./cmd/pwd.sh"
+                        },
+                        {
+                            "label": "Command2",
+                            "shell_src": "./cmd/pwd.sh"
+                        },
+                        {
+                            "label": "Command3",
+                            "shell_src": "./cmd/pwd.sh"
+                        }
+                    ],
+                    "mid_cmds": [
+                        {
+                            "label": "Command4",
+                            "shell_src": "./cmd/pwd.sh"
+                        },
+                        {
+                            "label": "Command5",
+                            "shell_src": "./cmd/pwd.sh"
+                        },
+                        {
+                            "label": "Command6",
+                            "shell_src": "./cmd/pwd.sh"
+                        }
+                    ],
+                    "bot_cmds": [
+                        {
+                            "label": "Command7",
+                            "shell_src": "./cmd/pwd.sh"
+                        },
+                        {
+                            "label": "Command8",
+                            "shell_src": "./cmd/pwd.sh"
+                        },
+                        {
+                            "label": "",
+                            "shell_src": ""
+                        }
+                    ]
+                },
+                {
+                    "label": "App3",
+                    "top_cmds": [
+                        {
+                            "label": "Command1",
+                            "shell_src": "./cmd/pwd.sh"
+                        },
+                        {
+                            "label": "Command2",
+                            "shell_src": "./cmd/pwd.sh"
+                        },
+                        {
+                            "label": "Command3",
+                            "shell_src": "./cmd/pwd.sh"
+                        }
+                    ],
+                    "mid_cmds": [
+                        {
+                            "label": "Command4",
+                            "shell_src": "./cmd/pwd.sh"
+                        },
+                        {
+                            "label": "Command5",
+                            "shell_src": "./cmd/pwd.sh"
+                        },
+                        {
+                            "label": "Command6",
+                            "shell_src": "./cmd/pwd.sh"
+                        }
+                    ],
+                    "bot_cmds": [
+                        {
+                            "label": "Command7",
+                            "shell_src": "./cmd/pwd.sh"
+                        },
+                        {
+                            "label": "Command8",
+                            "shell_src": "./cmd/pwd.sh"
+                        },
+                        {
+                            "label": "",
+                            "shell_src": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
